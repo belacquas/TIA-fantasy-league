@@ -28,6 +28,7 @@ Rückrunde changes:
 		d.	the Commissioner has the final say on position eligibility
 	2.	rosters have been expanded from 18 to 20
 		a.	the cap on the number of allowed roster players per position has been removed
+		
 4.	Transactions
 	1.	claims / drops are now only possible during pre-determined “transfer windows”
 		a.	after the draft: 
