@@ -22,7 +22,7 @@ Rückrunde changes:
 			v.	TBA			(ELD, others TBA)			$10
 
 3.	Scoring
-	1.	changes have been made to reward defenders primarily for affirmative defensive actions rather than collectively punish defensive units that concede a goal
+	1.	changes have been made to reward defenders for affirmative defensive actions rather than collectively punish defensive units that concede a goal
 		a.	defenders and goalkeepers no longer receive a penalty of -2 per goal conceded
 		b.	the clean sheet bonus for goalkeepers has been changed from 9 to 4
 		c.	the clean sheet bonus for defenders has been changed from 6 to 2
