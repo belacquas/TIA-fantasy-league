@@ -40,7 +40,8 @@ Rückrunde changes:
 		c.	where strata is less obvious, as with M,F players, advanced statistics will be used to classify the player as either M or F, but not both
 		d.	the Commissioner has the final say on position eligibility
 	2.	rosters have been expanded from 18 to 20
-		a.	the cap on the number of allowed roster players per position has been removed
+		a.	there is no roster cap for outfield positions 
+                b.      clubs may have no more than 1 goalkeeper on their rosters
 		
 5.	Transactions
 	1.	the default waiver processing time is now noon EST / 17:00 GMT
