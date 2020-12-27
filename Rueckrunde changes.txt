@@ -5,10 +5,23 @@ Rückrunde changes:
 		a.	clubs are sorted based on location (obviously)
 		b.	all clubs still play all other clubs
 		c.	the overall winner of the Rückrunde is unaffected
-		d.	small prizes are awarded to the club from each division with the best overall and divisional records
-		e.	small prizes are awarded for the best record in regional “cup” derbies
+		
+2.	Fees and Prizes
+	1.	the league entry fee is $10
+	2.	prizes are awarded for the following achievements:
+		a.	the club with the best overall H2H record				$30
+		b.	the club with the highest total Fpts					$10
+		c.	the club with the best divisional H2H record in the Americas division	$10
+		d.	the club with the best divisional H2H record in the Europe division	$10
+		e.	the club with the best combined Fpts total across both Runde		$20
+		f.	the club with the best H2H record among each of the following cups:
+			i.	Rust Belt Derby 	(PRX, GING, TFC, MADA)			$10
+			ii.	Trophée du Canada	(NMITB, TFC, SAB)			$10
+			iii.	Caribbean Cup		(RMP, SAB)				$10
+			iv.	Brexit Cup		(ZB, KOP)				$10
+			v.	TBA			(ELD, others TBA)			$10
 
-2.	Scoring
+3.	Scoring
 	1.	changes have been made to reward defenders primarily for affirmative defensive actions rather than collectively punish defensive units that concede a goal
 		a.	defenders and goalkeepers no longer receive a penalty of -2 per goal conceded
 		b.	the clean sheet bonus for goalkeepers has been changed from 9 to 4
@@ -20,7 +33,7 @@ Rückrunde changes:
 	2.	the Second Assist scoring category has been removed 
 	3.	Penalty Kicks Drawn for outfielders has been changed from 3 to 4
 
-3.	Rosters
+4.	Rosters
 	1.	as a general rule, multi-position players are no longer used
 		a.	wingbacks on real-world teams which primarily play with three-at-the-back systems (e.g., Wolves) will be set as defenders, with the exception of players who are obviously primarily attackers/wingers (e.g., Adama Traoré) 
 		b.	players who are obviously used in multiple strata may be set to D,M eligibility at the Commissioner’s discretion (e.g., Fabinho, Dallas, Alioski)
@@ -29,9 +42,11 @@ Rückrunde changes:
 	2.	rosters have been expanded from 18 to 20
 		a.	the cap on the number of allowed roster players per position has been removed
 		
-4.	Transactions
-	1.	claims / drops are now only possible during pre-determined “transfer windows”
-		a.	after the draft: 
+5.	Transactions
+	1.	the default waiver processing time is now noon EST / 17:00 GMT
+	2.	claims / drops are now only possible during pre-determined “fantasy transfer windows”
+		a.	the draft is scheduled for Saturday, 23 January at 15:00 EST / 20:00 GMT
+		b.	after the draft: 
 			i.	players will remain free agents until the start of their respective games during Gameweek 1 (final kickoff Thursday, 28 January at 15:00 EST / 20:00 GMT)
 			ii.	the claim window will remain closed until the end of the real-world transfer window
 		b.	Gameweek 22/3 and 23/4; each subsequent window will follow the pattern below:
@@ -39,7 +54,7 @@ Rückrunde changes:
 			ii.	then players will remain free agents until the start of their respective games during Gameweek 22/3 (final kickoff Wednesday, 3 February at 15:00 EST / 20:00 GMT)
 			iii.	claims process again Friday, 5 February at noon EST / 17:00 GMT
 			iv.	then players will remain free agents until the start of their respective games during Gameweek 23/4 (final kickoff TBA) 
-			v.	then the transfer window will close
+			v.	then the fantasy transfer window will close
 		c.	Gameweek 27/8
 			i.	Tuesday, 2 March at noon EST / 17:00 GMT
 			ii.	Friday, 5 March at noon EST / 17:00 GMT
@@ -49,6 +64,13 @@ Rückrunde changes:
 		e.	Gameweek 35/16
 			i.	Tuesday, 4 May at noon EST / 17:00 GMT
 			ii.	Friday, 7 May at noon EST / 17:00 GMT
-	2.	player trades between clubs can still be made at any time outside of the “transfer window” for claims
+	3.	player trades between clubs can still be made at any time outside of the fantasy transfer window for claims
 		a.	players “lock” with respect to trades at the first game of each day rather than each player’s game
-	3.	Waiver Wire order is now reverse order of standings, non-serpentine; (…8, 9, 10, 1, 2, 3… instead of …8, 9, 10, 10, 9, 8…) 
+	4.	Waiver Wire order is now reverse order of standings, non-serpentine; (…8, 9, 10, 1, 2, 3… instead of …8, 9, 10, 10, 9, 8…) 
+	5.	Emergency Goalkeeper Rule
+		a.	in the case of:
+			i.	the fantasy transfer window is not currently open
+			ii.	a club's goalkeeper is not starting, for any reason
+			iii.	the club in question does not have another goalkeeper on its roster
+		b.	then the club will have the starting goalkeeper from the same team transferred onto its roster
+		c.	during the next fantasy transfer window, that club will have the option of first refusal to claim the original goalkeeper or allow the player to go through the waiver process
