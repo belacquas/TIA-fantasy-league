@@ -72,6 +72,5 @@ Rückrunde changes:
 		a.	in the case of:
 			i.	the fantasy transfer window is not currently open
 			ii.	a club's goalkeeper is not starting, for any reason
-			iii.	the club in question does not have another goalkeeper on its roster
 		b.	then the club will have the starting goalkeeper from the same team transferred onto its roster
 		c.	during the next fantasy transfer window, that club will have the option of first refusal to claim the original goalkeeper or allow the player to go through the waiver process
