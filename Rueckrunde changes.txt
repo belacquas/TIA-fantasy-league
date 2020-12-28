@@ -50,19 +50,20 @@ Rückrunde changes:
 		b.	after the draft: 
 			i.	players will remain free agents until the start of their respective games during Gameweek 1 (final kickoff Thursday, 28 January at 15:00 EST / 20:00 GMT)
 			ii.	the claim window will remain closed until the end of the real-world transfer window
-		b.	Gameweek 22/3 and 23/4; each subsequent window will follow the pattern below:
+		c.	Gameweek 22/3 and 23/4; each subsequent window will follow the pattern below:
 			i.	claims process Tuesday, 2 February at noon EST / 17:00 GMT
-			ii.	then players will remain free agents until the start of their respective games during Gameweek 22/3 (final kickoff Wednesday, 3 February at 15:00 EST / 20:00 GMT)
-			iii.	claims process again Friday, 5 February at noon EST / 17:00 GMT
-			iv.	then players will remain free agents until the start of their respective games during Gameweek 23/4 (final kickoff TBA) 
-			v.	then the fantasy transfer window will close
-		c.	Gameweek 27/8
+			ii.	then players will remain free agents until the start of the first game of GW22/3 (Tuesday, 2 February at 14:45 EST / 19:45 GMT)
+			iii.	claims can be submitted again after the last game of GW22/3 (Wednesday, 3 February at ~17:00 EST / 22:00 GMT)
+			iv.	claims process again Friday, 5 February at noon EST / 17:00 GMT
+			v.	then players will remain free agents until the start of the first game of GW23/4 (kickoff TBA) 
+			vi.	then the fantasy transfer window will close
+		d.	Gameweek 27/8
 			i.	Tuesday, 2 March at noon EST / 17:00 GMT
 			ii.	Friday, 5 March at noon EST / 17:00 GMT
-		d.	Gameweek 30/11
+		e.	Gameweek 30/11
 			i.	Tuesday, 30 March at noon EST / 17:00 GMT
 			ii.	Friday, 2 April at noon EST / 17:00 GMT
-		e.	Gameweek 35/16
+		f.	Gameweek 35/16
 			i.	Tuesday, 4 May at noon EST / 17:00 GMT
 			ii.	Friday, 7 May at noon EST / 17:00 GMT
 	3.	player trades between clubs can still be made at any time outside of the fantasy transfer window for claims
