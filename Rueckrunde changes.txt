@@ -38,6 +38,29 @@ Rückrunde changes:
 		a.	wingbacks on real-world teams which primarily play with three-at-the-back systems (e.g., Wolves) will be set as defenders, with the exception of players who are obviously primarily attackers/wingers (e.g., Adama Traoré) 
 		b.	players who are obviously used in multiple strata may be set to D,M eligibility at the Commissioner’s discretion (e.g., Fabinho, Dallas, Alioski)
 		c.	where strata is less obvious, as with M,F players, advanced statistics will be used to classify the player as either M or F, but not both
+			i.	Grealish (AVL)		M
+			ii.	Son (TOT)		M
+			iii.	James Rodríguez (EVE)	M
+			iv.	Mount (CHE)		M
+			v.	Rashford (MUN)		M
+			vi.	Zaha (CRY)		F
+			vii.	Richarlison (EVE)	F
+			viii.	Trézéguet (AVL)		F
+			ix.	Groß (BHA)		M
+			x.	Podence (WOL)		M
+			xi.	Aubameyang (ARS)	F
+			xii.	Willian (ARS)		M
+			xiii.	Foden (MCI)		M
+			xiv.	Antonio (WHU)		F
+			xv.	Trossard (BHA)		F
+			xvi.	Bernardo Silva (MCI)	M
+			xvii.	Greenwood (MUN)		M
+			xviii.	Pérez (LEI)		M
+			xix.	Pulisic (CHE)		F
+			xx.	Lucas Moura (TOT)	F
+			xxi.	Pépé (ARS)		F
+			xxii.	Redmond (SOU)		M
+			
 		d.	the Commissioner has the final say on position eligibility
 	2.	rosters have been expanded from 18 to 20
 		a.	there is no roster cap for outfield positions 
