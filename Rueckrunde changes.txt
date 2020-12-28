@@ -66,7 +66,7 @@ Rückrunde changes:
 		f.	Gameweek 35/16
 			i.	Tuesday, 4 May at noon EST / 17:00 GMT
 			ii.	Friday, 7 May at noon EST / 17:00 GMT
-	3.	player trades between clubs can still be made at any time outside of the fantasy transfer window for claims
+	3.	player trades between clubs are not restricted to fantasy transfer windows
 		a.	players “lock” with respect to trades at the first game of each day rather than each player’s game
 	4.	Waiver Wire order is now reverse order of standings, non-serpentine; (…8, 9, 10, 1, 2, 3… instead of …8, 9, 10, 10, 9, 8…) 
 	5.	Emergency Goalkeeper Rule
