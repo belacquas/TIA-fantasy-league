@@ -39,23 +39,23 @@ Rückrunde changes:
 		b.	players who are obviously used in multiple strata may be set to D,M eligibility at the Commissioner’s discretion (e.g., Fabinho, Dallas, Alioski)
 		c.	where strata is less obvious, as with M,F players, advanced statistics will be used to classify the player as either M or F, but not both
 			i.	Grealish (AVL)		M
-			ii.	Son (TOT)		M
+			ii.	Son (TOT)		F
 			iii.	James Rodríguez (EVE)	M
 			iv.	Mount (CHE)		M
-			v.	Rashford (MUN)		M
+			v.	Rashford (MUN)		F
 			vi.	Zaha (CRY)		F
 			vii.	Richarlison (EVE)	F
 			viii.	Trézéguet (AVL)		F
 			ix.	Groß (BHA)		M
-			x.	Podence (WOL)		M
+			x.	Podence (WOL)		F
 			xi.	Aubameyang (ARS)	F
 			xii.	Willian (ARS)		M
 			xiii.	Foden (MCI)		M
 			xiv.	Antonio (WHU)		F
 			xv.	Trossard (BHA)		F
 			xvi.	Bernardo Silva (MCI)	M
-			xvii.	Greenwood (MUN)		M
-			xviii.	Pérez (LEI)		M
+			xvii.	Greenwood (MUN)		F
+			xviii.	Pérez (LEI)		F
 			xix.	Pulisic (CHE)		F
 			xx.	Lucas Moura (TOT)	F
 			xxi.	Pépé (ARS)		F
