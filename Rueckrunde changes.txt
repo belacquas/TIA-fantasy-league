@@ -10,6 +10,7 @@ Rückrunde changes:
 	1.	due to the persistent uncertainty surrounding the impact of Covid on the Premier League and our fantasy season, there is no entry fee
 	2.	prizes are awarded for the following achievements:
 		a.	the club with the best overall H2H record .....................................	$30
+			i.	this amount was set to be rolled over from the Hinrunde
 	3.	bragging rights are awarded for the following achievements:					
 		a.	the club with the best divisional H2H record in the Americas division	
 		b.	the club with the best divisional H2H record in the Europe division	
