@@ -10,11 +10,10 @@ Rückrunde changes:
 	1.	due to the persistent uncertainty surrounding the impact of Covid on the Premier League and our fantasy season, there is no entry fee
 	2.	prizes are awarded for the following achievements:
 		a.	the club with the best overall H2H record .....................................	$30
-		b.	the club with the highest total Fpts					
-		c.	the club with the best divisional H2H record in the Americas division	
-		d.	the club with the best divisional H2H record in the Europe division	
-		e.	the club with the best combined Fpts total across both Runde		
-		f.	the club with the best H2H record among each of the following cups:
+	3.	bragging rights are awarded for the following achievements:					
+		a.	the club with the best divisional H2H record in the Americas division	
+		b.	the club with the best divisional H2H record in the Europe division	
+		c.	the club with the best H2H record among each of the following cups:
 			i.	Rust Belt Derby 	(PRX, GING, TFC, MADA)			
 			ii.	Trophée du Canada	(NMITB, TFC, SAB)			
 			iii.	Caribbean Cup		(RMP, SAB)				
