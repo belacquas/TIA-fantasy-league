@@ -7,19 +7,19 @@ Rückrunde changes:
 		c.	the overall winner of the Rückrunde is unaffected
 		
 2.	Fees and Prizes
-	1.	the league entry fee is $10
+	1.	due to the persistent uncertainty surrounding the impact of Covid on the Premier League and our fantasy season, there is no entry fee
 	2.	prizes are awarded for the following achievements:
 		a.	the club with the best overall H2H record				$30
-		b.	the club with the highest total Fpts					$10
-		c.	the club with the best divisional H2H record in the Americas division	$10
-		d.	the club with the best divisional H2H record in the Europe division	$10
-		e.	the club with the best combined Fpts total across both Runde		$20
+		b.	the club with the highest total Fpts					
+		c.	the club with the best divisional H2H record in the Americas division	
+		d.	the club with the best divisional H2H record in the Europe division	
+		e.	the club with the best combined Fpts total across both Runde		
 		f.	the club with the best H2H record among each of the following cups:
-			i.	Rust Belt Derby 	(PRX, GING, TFC, MADA)			$10
-			ii.	Trophée du Canada	(NMITB, TFC, SAB)			$10
-			iii.	Caribbean Cup		(RMP, SAB)				$10
-			iv.	Brexit Cup		(ZB, KOP)				$10
-			v.	TBA			(ELD, others TBA)			$10
+			i.	Rust Belt Derby 	(PRX, GING, TFC, MADA)			
+			ii.	Trophée du Canada	(NMITB, TFC, SAB)			
+			iii.	Caribbean Cup		(RMP, SAB)				
+			iv.	Brexit Cup		(ZB, KOP)				
+			v.	TBA			(ELD, others TBA)			
 
 3.	Scoring
 	1.	changes have been made to reward defenders for affirmative defensive actions rather than collectively punish defensive units that concede a goal
