@@ -15,11 +15,11 @@ Rückrunde changes:
 		a.	the club with the best divisional H2H record in the Americas division	
 		b.	the club with the best divisional H2H record in the Europe division	
 		c.	the club with the best H2H record among each of the following cups:
-			i.	Rust Belt Derby 	(PRX, GING, TFC, MADA)			
-			ii.	Trophée du Canada	(NMITB, TFC, SAB)			
+			i.	Rust Belt Derby 	(PRX, GING, TFC)			
+			ii.	Trophée du Canada	(TFC, SAB)			
 			iii.	Caribbean Cup		(RMP, SAB)				
 			iv.	Brexit Cup		(ZB, KOP)				
-			v.	TBA			(ELD, others TBA)
+			v.	Woodland Cup		(ELD, MADA, KAI)
 	4.	The Commissioner would like to reiterate the commitment of all participating clubs to donate their winnings in excess of entry fees to a charity of their choice
 
 3.	Scoring
@@ -72,15 +72,14 @@ Rückrunde changes:
 	2.	claims / drops are now only possible during pre-determined “fantasy transfer windows”
 		a.	the draft is scheduled for Saturday, 23 January at 15:00 EST / 20:00 GMT
 		b.	after the draft: 
-			i.	players will remain free agents until the start of their respective games during Gameweek 1 (final kickoff Thursday, 28 January at 15:00 EST / 20:00 GMT)
+			i.	players will remain free agents until the Tuesday, 26 January at 13:00 EST / 18:00 GMT 
 			ii.	the claim window will remain closed until the end of the real-world transfer window
 		c.	Gameweek 22/3 and 23/4; each subsequent window will follow the pattern below:
 			i.	claims process Tuesday, 2 February at noon EST / 17:00 GMT
-			ii.	then players will remain free agents until the start of the first game of GW22/3 (Tuesday, 2 February at 14:45 EST / 19:45 GMT)
-			iii.	claims can be submitted again after the last game of GW22/3 (Wednesday, 3 February at ~17:00 EST / 22:00 GMT)
-			iv.	claims process again Friday, 5 February at noon EST / 17:00 GMT
-			v.	then players will remain free agents until the start of the first game of GW23/4 (kickoff TBA) 
-			vi.	then the fantasy transfer window will close
+			ii.	then players will remain free agents until Tuesday, 2 February at 13:00 EST / 18:00 GMT
+			iii.	claims process again Friday, 5 February at noon EST / 17:00 GMT
+			iv.	then players will remain free agents until the start of the first game of GW23/4 (kickoff TBA) 
+			v.	then the fantasy transfer window will close
 		d.	Gameweek 27/8
 			i.	Tuesday, 2 March at noon EST / 17:00 GMT
 			ii.	Friday, 5 March at noon EST / 17:00 GMT
