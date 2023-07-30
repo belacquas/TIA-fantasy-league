@@ -1,0 +1,58 @@
+1.	Format
+	1.	Duration
+ 		a.	the season is split into two equal halves, each consisting of 19 Gameweeks - the Apertura and Clausura (Opening and Closing) 
+   		b.	the Apertura runs from 11 August 2023 until 26 December 2023
+     		c.	the Clausura runs from 27 December 2023 until the end of the season
+       		d.	rosters and points are wiped between half-seasons
+	 	e.	each half-season has its own draft
+     
+	2.	League Structure
+ 		a.	the League consists of ten Fantasy Teams competing in one division
+   		b.	all teams will play 15 "Regular Season" Gameweeks (1-15) 
+     			i.	teams are ranked by Total FPts to determine the seeding for the Playoffs
+				i.	Head-to-Head results against the League Median are only a placeholder
+			ii.	the top 6 teams automatically qualify for the Playoffs
+		c.	the Playoffs will take place over 4 Gameweeks (16-19):
+  			i.	one "play-in" round featuring two Head-to-Head matchups: 7th vs. 10th and 8th vs. 9th
+     			ii.	Seed 1 will play the winner of Seed 8 vs. Seed 9
+			iii.	Seed 2 will play the winner of Seed 7 vs. Seed 10
+   			iv.	Seed 3 will play Seed 6 on the side of the bracket with Seed 2
+      			v.	Seed 4 will play Seed 5 on the side of the bracket with Seed 1
+	 		vi.	each matchup takes the format of single elimination H2H
+
+2.	Scoring
+	1.	changes have been made to improve goalkeeper value
+ 		a.	goalkeepers no longer score points for Long Balls - Accurate
+   		b.	Successful Final Third Passes for goalkeepers has been increased from 0.5 to 0.8
+     		c.	Saves Inside the Box has been increased from 3 to 4
+       		d.	Clean Sheet on Pitch for goalkeepers has been increased to 8
+	 	e.	Interceptions in the Box for goalkeepers has been increased from 1 to 3
+   		f.	Save Percentage has been added with a value of 0.1 points per 1% over 74% (i.e., a maximum bonus of 2.6 FPts at 100% Sv%) 
+     	2.	Clearances off the Line has been added for all outfielders with a value of 6
+
+3.	Transactions
+	1.	the player pool is locked at the time of the draft and will remain locked (no new players can enter the pool) until the end of the real world transfer window
+ 	2.	waivers process every Tuesday and Friday at noon EDT / 17:00 BST / 16:00 UTC
+  		a.	waiver order is reverse order of standings
+    	3.	Emergency Goalkeeper Rule
+		a.	in the case of:
+  			i.	a fantasy team's goalkeeper not starting, for any reason 
+     			ii.	the fantasy team does not have another goalkeeper on its roster
+     		b.	then the team will have the starting goalkeeper from the same team transferred onto its roster
+  		c.	no other fantasy team will be permitted to claim the original goalkeeper, unless and until such time as the original owner claims another goalkeeper from the pool
+    		d.	team owners are always permitted to claim a different goalkeeper from the pool, with the understanding that this releases their claim on their original goalkeeper
+      	4.	Trades
+       		a.	players “lock” with respect to trades at the first game of each day
+       		b.	trades between fantasy teams will be disabled during the Playoffs
+	 	c.	teams that have been eliminated from the playoffs will not be able to claim or drop players from the pool
+
+4.	Rosters
+	1.	dual position players are not used as a general rule
+ 		a.	players who are obviously used in multiple strata may be set to D,M eligibility at the Commissioner’s discretion
+   		b.	wingbacks on real-world teams which primarily play with three-at-the-back systems will be set as defenders, with the exception of players who are obviously primarily attackers/wingers
+     		c.	M,F players are strictly forbidden; position eligibility is decided at the Commissioner's discretion
+       		d.	the Commissioner has the final say on position eligibility
+	 	e.	position eligibility can be changed at any time before or following the draft
+   	2.	rosters have been expanded from 15 to 16 players
+    		a.	Injured Reserve spots are not available
+      		b.	there is no roster cap for outfield positions
